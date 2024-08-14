@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/suojae3?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/suojae3?border=0&radius=20?theme=nord)
