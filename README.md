@@ -4,6 +4,8 @@
 
 ## 🗣️ Language
 
-| 주언어 | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) | ![Swift](https://img.icons8.com/color/48/000000/swift.png) |  ![Dart](https://img.icons8.com/color/48/000000/dart.png) |
-|:---------:|:---------:|:---------:|:---------:|
-| 보조 언어 | ![Python](https://img.icons8.com/color/48/000000/python.png) |  | |
+| **이해도**  | **언어** |
+|:--------------------|:--------------|
+| **First**  | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) |
+| **Second** | ![Swift](https://img.icons8.com/color/48/000000/swift.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) |
+| **Third**  | ![Python](https://img.icons8.com/color/48/000000/python.png) |
