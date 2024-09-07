@@ -5,14 +5,21 @@
 <br/>
 
 ## 🐦 Flutter 
-| 날짜 | 프로젝트 이름 | 설명 | 인원 | 배포 링크 |
-| --- | --- | --- | --- | --- |
+| 프로젝트 이름 | 설명 | 인원 | 링크 |
+| --- | --- | --- | --- |
+| **Rubbit** | Riverpod에 TDD를 적용한 배포 프로젝트 | 1인 |  |
+| **Medihabit** | Bloc-Firebase를 활용한 배포 프로젝트 | 1인 | |
+| **State Management** | 플러터 인기 상태관리 패키지 비교분석 프로젝트 | 1인 | |
+
 
 <br/>
 
 ## 🍎 iOS 
-| 날짜 | 프로젝트 이름 | 설명 | 인원 | 배포 링크 |
-| --- | --- | --- | --- | --- |
+| 프로젝트 이름 | 설명 | 인원 | 링크 |
+| --- | --- | --- | --- |
+| **박스오피스** | 클린아키텍쳐와 캐시메모리를 활용한 미니 프로젝트 | 2인 | [GitHub](https://github.com/ssuojae/ios-box-office) |
+| **은행창구** | iOS Concurrency를 활용한 미니 프로젝트 | 2인 | [GitHub](https://github.com/ssuojae/ios-bank-manager) |
+
 
 <br/>
 
