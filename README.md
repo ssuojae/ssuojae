@@ -7,7 +7,7 @@
 ## 🐦 Flutter 
 | 프로젝트 이름 | 설명 | 인원 | 링크 |
 | --- | --- | --- | --- |
-| **Rubbit** | Riverpod에 TDD를 적용한 배포 프로젝트 | 1인 |  |
+| **Rubbit** (Front) | Riverpod에 TDD를 적용한 배포 프로젝트 | 1인 |  |
 | **Medihabit** | Bloc-Firebase를 활용한 배포 프로젝트 | 1인 | |
 | **State Management** | 플러터 인기 상태관리 패키지 비교분석 프로젝트 | 1인 | |
 
