@@ -17,8 +17,8 @@
 ## 🍎 iOS 
 | 프로젝트 이름 | 설명 | 인원 | 링크 |
 | --- | --- | --- | --- |
-| **박스오피스** | 클린아키텍쳐와 캐시메모리를 활용한 미니 프로젝트 | 2인 | [GitHub](https://github.com/ssuojae/ios-box-office) |
-| **은행창구** | iOS Concurrency를 활용한 미니 프로젝트 | 2인 | [GitHub](https://github.com/ssuojae/ios-bank-manager) |
+| **박스오피스** | 클린아키텍쳐와 캐시메모리를 활용한 미니 프로젝트 | 2인 | |
+| **은행창구** | iOS Concurrency를 활용한 미니 프로젝트 | 2인 | |
 
 
 <br/>
