@@ -9,7 +9,10 @@
 
 <br/>
 
-## 기술 스택
-[![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,aws&theme=light)](https://skillicons.dev)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuojae)
+## Tech Stack
 
+### Main Stack
+[![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,aws&theme=light)](https://skillicons.dev)<br/>
+
+### Secondary Stack
+[![My Skills](https://skillicons.dev/icons?i=swift,rxswift,ios&theme=light)](https://skillicons.dev)<br/>
