@@ -4,15 +4,11 @@
 
 #### 📚 기술 서적 읽기를 좋아합니다. 독서를 통해 깊이를 더하는 것에 즐거움을 느낍니다. <br/>
 
-#### 🌍 접근성을 향상시키는 개발자를 지향합니다. 기술의 발전과 디지털 소외계층의 격차를 줄이는 것에 기여하고 싶습니다. <br/>
+#### 🌍 접근성 향상에 기여하는 개발자를 지향합니다. <br/>
 
 
 <br/>
 
-## Tech Stack
+## Main Tech Stack
 
-### Main Stack
 [![My Skills](https://skillicons.dev/icons?i=flutter,nestjs,aws&theme=light)](https://skillicons.dev)<br/>
-
-### Secondary Stack
-[![My Skills](https://skillicons.dev/icons?i=swift,rxswift,ios&theme=light)](https://skillicons.dev)<br/>
